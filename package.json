@@ -13,7 +13,7 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.9.3",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.13.0",
     "react-ckeditor-component": "^1.1.0",
     "react-dom": "^16.13.0",
